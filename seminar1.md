@@ -63,3 +63,5 @@ git stash
 ```
 git checkout <commit's name from reflog>
 ```
+
+Все материалы были взяты из [Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
