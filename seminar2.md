@@ -85,6 +85,29 @@ git checkout <commit's name from reflog>
 
 ![panda](panda.jpg)
 
+Картинка без `alt` текста
+![](//placehold.it/150x100)
+Картинка с альтом и тайтлом:
+![Alt text](//placehold.it/150x100 "Можно задать title")
+Запомнить просто: синтаксис как у ссылок, только перед
+открывающей квадратной скобкой ставится восклицательный
+знак.
+Картинки «сноски»:
+![Картинка][image1]
+![Картинка][image2]
+![Картинка][image3]
+[image1]: //placehold.it/250x100
+[image2]: //placehold.it/200x100
+[image3]: //placehold.it/150x100
+Картинки-ссылки:
+[![Alt text](//placehold.it/150x100)]
+(http://example.com/)
+
+Например, 
+
+![bear](bear.jpg)
+![tiger](tiger.jpg)
+
 ## Добавление исходного кода
 
 В чистом Маркдауне блоки кода отбиваются 4 пробелами в
