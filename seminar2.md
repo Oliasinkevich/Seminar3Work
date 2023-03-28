@@ -83,9 +83,7 @@ git checkout <commit's name from reflog>
 
 ## Добавление картинок
 
-
-
-
+![panda](panda.jpg)
 
 ## Добавление исходного кода
 
